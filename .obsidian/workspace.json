@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "a2f65b535ee073b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "65e289568bf3db14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5bf612d5762082c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "α Templates/(Year) Paper Title.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7feba3e96966b3ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "0121012922fa8915",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c855ac57602215a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54fb6e20eba318c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "070ad7d23bdf42cf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b7aace4eeb3f2f43",
+    "type": "split",
+    "children": [
+      {
+        "id": "3348ebc3fbbdc0d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aef3ef8ee3daacdc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "α Templates/(Year) Paper Title.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5e1920ae8af92aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "α Templates/(Year) Paper Title.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84af873a465a46dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf2aa8f6884e81fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "α Templates/(Year) Paper Title.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "88fa17ba1b70729b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c92c40567d50bf61",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "c5bf612d5762082c",
+  "lastOpenFiles": [
+    "Geotechnical Engineering/(1970) Review of Shearing Strength of Rockfill.md",
+    "Geotechnical Engineering/(1980) The Influence of Confining Pressure on the Shear Strength of Compacted Rockfill.md",
+    "α Templates/(Year) Paper Title.md",
+    "Geotechnical Engineering/Untitled.md",
+    "Geotechnical Engineering/img/leps-1970_01.png",
+    "Geotechnical Engineering/Leps, 1987.md",
+    "2022-11-01.md"
+  ]
+}

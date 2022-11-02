@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "textFontFamily": "Cascadia Mono",
+  "interfaceFontFamily": "Cascadia Mono",
+  "monospaceFontFamily": "Cascadia Code",
+  "baseFontSize": 15,
+  "translucency": false,
+  "nativeMenus": true
+}
