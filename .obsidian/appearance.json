@@ -1,11 +1,15 @@
 {
   "accentColor": "",
-  "cssTheme": "Minimal",
+  "cssTheme": "Catppuccin",
   "theme": "obsidian",
-  "textFontFamily": "Cascadia Mono",
-  "interfaceFontFamily": "Cascadia Mono",
-  "monospaceFontFamily": "Cascadia Code",
-  "baseFontSize": 15,
+  "textFontFamily": "Iosevka SS05",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Iosevka Term",
+  "baseFontSize": 16,
   "translucency": false,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "Image",
+    "Horizontal Line"
+  ]
 }

@@ -1,0 +1,15 @@
+/* Enlarge image on hover */
+.markdown-preview-view img {
+    display: block;
+    border: 3px solid #b4befe;
+    margin-top: 20pt;
+    margin-bottom: 20pt;
+    margin-left: auto;
+    margin-right: auto;
+    transition:transform 0.20s ease;
+  }
+  
+  .markdown-preview-view img:hover {
+      -webkit-transform:scale(1.20); /* experiment with values */
+      transform:scale(1.25);
+  }

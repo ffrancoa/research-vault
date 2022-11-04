@@ -2,5 +2,8 @@
   "minimal-style@@image-muted": 0.9,
   "minimal-style@@zoom-off": true,
   "minimal-style@@bold-color@@dark": "#D699B6",
-  "minimal-style@@italic-color@@dark": "#83C092"
+  "minimal-style@@italic-color@@dark": "#83C092",
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-mocha",
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-full-palette",
+  "catppuccin-font-styles@@ctp-bold": "var(--ctp-blue)"
 }
