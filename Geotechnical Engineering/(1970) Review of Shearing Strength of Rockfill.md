@@ -1,8 +1,8 @@
 ---
-title: Review of Shearing Strength of Rockfill
+title: 'Review of Shearing Strength of Rockfill'
 year: 1970
-author: Leps, T. M.
-category: Paper
+author: 'Leps, T. M.'
+category: 'Paper'
 date updated: '2022-11-05'
 ---
 
