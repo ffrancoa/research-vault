@@ -1,8 +1,8 @@
 ---
-title: 'Review of Shearing Strength of Rockfill'
+title: Review of Shearing Strength of Rockfill
 year: 1970
-author: 'Leps, T. M.'
-category: 'Paper'
+author: Leps, T. M.
+category: Paper
 date updated: '2022-11-05'
 ---
 
@@ -55,10 +55,10 @@ El artículo no presenta un resumen inicial.
     - A niveles de confinamiento bajos, el aumento de la densidad relativa puede producir un incremento de hasta _4°_ en el ángulo de fricción.
     - Una mayor angulosidad en las partículas del enrocado producen un incremento de su resistencia.
 
-14. En general, es posible confirmar la tendencia de que un aumento del nivel de confinamiento reduce el ángulo de fricción del enrocado
+12. En general, es posible confirmar la tendencia de que un aumento del nivel de confinamiento reduce el ángulo de fricción del enrocado
     - Lo anterior ignora la presencia de la **"cohesión aparente"** que pueda presentar el enrocado.
 
-15. A pesar de mostrar la tendencia de la variación como una linea recta, realmente la tendencia indica una curvatura de aumento de resistencia en el rango de _10_ a _1 psi_.
+13. A pesar de mostrar la tendencia de la variación como una linea recta, realmente la tendencia indica una curvatura de aumento de resistencia en el rango de _10_ a _1 psi_.
     - La poca cantidad de registros para estos niveles de confinamiento impiden tener una relación que defina la curvatura de la tendencia para dicho intervalo.
 
 ## 6. Relación Esfuerzo-Deformación a Bajos Niveles de Confinamiento
@@ -90,11 +90,17 @@ El artículo no presenta un resumen inicial.
 
 ## Referencias Destacadas
 
-1. Jürgenson, L. (1934). _The Shearing Strength of Soils_. Journal of the Boston Society of Civil Engineers (Vol. XXI, N° 3).
-   - Artículo donde por primera vez se describen al equipo triaxial, y la prueba de laboratorio que lo utiliza, para la evaluación de la resistencia al corte en muestras de suelo.
+> Jürgenson, L. (1934). _The Shearing Strength of Soils_. Journal of the Boston Society of Civil Engineers (Vol. XXI, N° 3).
 
-2. Marsal, R. J. (1967). _Large Scale Testing of Rockfill Materials_. Journal of the Soil Mechanics and Foundations Division (Vol. 93, Issue 2, pp. 27–43)
-    - Artículo en el cual se discuten resultados obtenidos en ensayos triaxiales a gran escala, referenciados en numerosas publicaciones aún hasta la fecha.
+```
+Artículo donde por primera vez se describe el modelo de ensayo triaxial empleado para la evaluación de la resistencia al corte en muestras de suelo.
+```
+
+> Marsal, R. J. (1967). _Large Scale Testing of Rockfill Materials_. Journal of the Soil Mechanics and Foundations Division (Vol. 93, Issue 2, pp. 27–43)
+
+```
+Artículo en el cual se discuten resultados obtenidos en ensayos triaxiales a gran escala. Estos resultados han sido referenciados en numerosas publicaciones, aún hasta la fecha.
+```
 
 ---
 

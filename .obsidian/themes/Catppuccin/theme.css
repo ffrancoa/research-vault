@@ -107,9 +107,9 @@ body {
   --file-header-border: var(--border-width) solid transparent;
   --file-header-justify: center;
   /* Relative font sizes */
-  --font-smallest: 0.8em;
-  --font-smaller: 0.875em;
-  --font-small: 0.933em;
+  --font-smallest: 0.85em;
+  --font-smaller: 0.9em;
+  --font-small: 0.95em;
   /* UI font sizes */
   --font-ui-smaller: 12px;
   --font-ui-small: 13px;
