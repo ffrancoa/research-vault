@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geotechnical Engineering/(1970) Review of Shearing Strength of Rockfill.md",
-                "mode": "preview",
+                "file": "β Templates/(Year) Paper Title.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geotechnical Engineering/(1970) Review of Shearing Strength of Rockfill.md",
+                "file": "β Templates/(Year) Paper Title.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geotechnical Engineering/(1970) Review of Shearing Strength of Rockfill.md",
+                "file": "β Templates/(Year) Paper Title.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geotechnical Engineering/(1970) Review of Shearing Strength of Rockfill.md"
+                "file": "β Templates/(Year) Paper Title.md"
               }
             }
           }
@@ -155,6 +155,7 @@
   "active": "c5bf612d5762082c",
   "lastOpenFiles": [
     "Geotechnical Engineering/(1970) Review of Shearing Strength of Rockfill.md",
+    "β Templates/(Year) Paper Title.md",
     "Geotechnical Engineering/(1980) The Influence of Confining Pressure on the Shear Strength of Compacted Rockfill.md",
     "README.md",
     "α Templates/(Year) Paper Title.md",

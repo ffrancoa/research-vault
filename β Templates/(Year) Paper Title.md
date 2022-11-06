@@ -1,29 +1,39 @@
 ---
-title: ""
-year: 
-author: 
+title: ''
+year: null
+author: ''
 category: Paper
+date updated: 'year-month-day'
 ---
 
 # Título
 
 ## Resumen
 
-* Punto 1
+1. Punto 1
+   - Subpunto 1
 
-* Punto 2
+2. Punto 2
 
-* Punto 3
+3. Punto 3
 
 ## 1. Subtítulo 1
 
-## 2. Subtítulo 2
+4. Punto 4
+
+---
 
 ## Referencias Destacadas
+
+> Referencia
+
+```
+Descripción de la referencia.
+```
 
 ---
 
 ## Cuestionario
 
-* **Pregunta**
-    * Respuesta 
+1. **Pregunta**
+   - Respuesta
