@@ -4,5 +4,6 @@
   "attachmentFolderPath": "α Images",
   "readableLineLength": true,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "autoPairMarkdown": false
 }
